@@ -1,0 +1,1 @@
+{\n  "name": "scam-detector-2026",\n  "version": "1.0.0",\n  "description": "A project for detecting scams using advanced algorithms.",\n  "scripts": {\n    "start": "node index.js",\n    "dev": "nodemon index.js"\n  }\n}
